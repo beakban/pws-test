@@ -1,0 +1,28 @@
+{
+  "background_color": "none",
+  "description": "1만 시간",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "1만 시간의",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "1만 시간",
+  "start_url": "https://naver.com",
+  "theme_color": "none",
+  "categories": [
+    "business"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "img/favicon.ico"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "ko",
+  "display_override": [
+    "standalone"
+  ],
+  "iarc_rating_id": "18",
+  "prefer_related_applications": false
+}
